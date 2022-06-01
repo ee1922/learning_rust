@@ -28,7 +28,7 @@ $ cd rust-restaurant-api
 $ cargo run
 ```
 
-### Database Structure
+## Database Structure
 Item Name： item
 | id | table_id | item_name | prep_time  | created_at |
 | --- | --- | --- | --- | --- |
