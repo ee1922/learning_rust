@@ -28,6 +28,11 @@ $ cd rust-restaurant-api
 $ cargo run
 ```
 
+### Database Structure
+Item Name： item
+| id | table_id | item_name | prep_time  | created_at |
+| --- | --- | --- | --- | --- |
+| 1 | 1 | Curry Rice | 10 | Sat, 26 Mar 2022 |
 
 ## API Design
 
