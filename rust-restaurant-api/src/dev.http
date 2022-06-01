@@ -1,0 +1,15 @@
+## Quick Dev
+
+GET http://127.0.0.1:8000/item?table_id=1&item_name=fredy
+
+
+DELETE http://127.0.0.1:8000/item?table_id=5&item_name=deletable
+
+
+GET http://127.0.0.1:8000/item/11
+
+# POST http://127.0.0.1:8000/item
+# Content-Type: application/json 
+# {"table_id": "MY item"}
+
+# curl -X POST 'http://localhost:8000/item/' -H 'Content-Type: application/json' -d '{"table_id":"2", "item_name": "fredy"}'
