@@ -1,6 +1,14 @@
 # Learning-rust
 Building a restaurant API using Rust
 
+## Before Build
+Make sure you have a postgresql database ready.
+
+```
+Database Name: postgres
+Host: 127.0.0.1
+Port: 5432
+```
 
 ## Build and Run
 
