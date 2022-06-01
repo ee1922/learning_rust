@@ -1,0 +1,11 @@
+/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/deps/mio_uds-90bd7dc49c367b5d.rmeta: /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/deps/libmio_uds-90bd7dc49c367b5d.rlib: /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/deps/mio_uds-90bd7dc49c367b5d.d: /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs:

@@ -1,0 +1,10 @@
+/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/deps/libasync_trait-53bebec429cde210.dylib: /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lib.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/args.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/expand.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lifetime.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/parse.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/receiver.rs
+
+/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/deps/async_trait-53bebec429cde210.d: /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lib.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/args.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/expand.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lifetime.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/parse.rs /Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/receiver.rs
+
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lib.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/args.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/expand.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/lifetime.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/parse.rs:
+/Users/alfrednfor/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.53/src/receiver.rs:

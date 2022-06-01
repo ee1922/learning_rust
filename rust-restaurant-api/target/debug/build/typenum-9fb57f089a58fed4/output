@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/build/typenum-9fb57f089a58fed4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/alfrednfor/Desktop/learning_rust/rust-restaurant-api/target/debug/build/typenum-9fb57f089a58fed4/out/op.rs
